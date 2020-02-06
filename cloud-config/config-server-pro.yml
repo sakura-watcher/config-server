@@ -1,0 +1,4 @@
+data:
+  env: pro
+  user: admin
+  password: adminpass
